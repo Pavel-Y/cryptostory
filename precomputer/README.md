@@ -37,6 +37,6 @@ prisoners of war.
 Noboby had to know that Enigma and the key schedue were stolen. 
 As a resut this key schedule was in use for a while and the messages were succesfully decripted.
 
-Closer to the end of the WWII the Allies managed to break the cipher after significant efforts having obtained just the latest 
+Closer to the end of the WWII after significant efforts the Allies managed to break the cipher having obtained just the latest 
 version of Enigma.
  
