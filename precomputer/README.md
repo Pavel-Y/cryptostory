@@ -1,23 +1,24 @@
-## Secure communications before computers
+ ## Secure communications before computers
 
 From the early days until radio was invented, people had few options to send a message privately:
 - use postal service and hope for the best that your envelope won't be open 
 - send a person with your message and hope he won't be intercepted nor he will defect you
 - use dove post
 
-So if you sent plain text, there were chances the contents of your private message would be known to an adversary.
+So if you send plain text, there are chances the contents of your private message will be known to an adversary.
 As a result, alphabetical ciphers were invented, for example
-- Ceasar cipher of ROT13
+- Ceasar cipher or ROT13
 - Vigenere cipher
 
-It seems Vigenere cipher was robust enough for its epoch. Much later an algorithm was found that breaks it 
+Vigenere cipher was robust enough for its epoch. Some 30-50 years later an algorithm was found that breaks it 
 after observing a long enough cipher text. Both the plain text and the key are found.
 
-In 1917 it was proven that to have perfect secrecy (adversay learns nothing from cipher text) the private key knows to 
+In 1917 it was proven that to have perfect secrecy (adversary learns nothing from cipher text, i.e. given an arbitrary cipher text, any plain text of the same length has equal probability to be converted to it) the private key known to both
 the sender and the receiver must be at least as long as the message itself. To send the next message, you use the next 
-part of the key and nevr reuse it.
-So, if you calculate cipher text = plain text text *xor* key
-(addition modulo 2 for binary values) you cipher is perfectly secure. That is a One Time Pad or Vernam cipher.
+part of the key and never reuse it.
+
+So, if you calculate `cipher text = plain text *xor* key`
+(addition modulo 2 for binary values) you cipher is perfectly secure. This is a One Time Pad or Vernam cipher.
 
 Later on, as radio was invented, another crypto marvel was designed: 
 - the Enigma machine.
