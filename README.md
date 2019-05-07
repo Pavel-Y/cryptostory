@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Secure communcations stories
+
+This is not a comprehensive guide on cryptography. I intend it to be an overview for laymen.
+
+1. Pre-computer era
+2. Symmetric crypto primitives
+3. Asymmetric crypto primitives
+4. Modern protocols
 
 You can use the [editor on GitHub](https://github.com/Pavel-Y/cryptostory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
