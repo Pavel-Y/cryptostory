@@ -1,4 +1,4 @@
-## Secure communcations stories
+## Secure communications overview
 
 This is not a comprehensive guide on cryptography. I intend it to be an overview for laymen.
 
