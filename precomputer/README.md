@@ -1,11 +1,11 @@
- ## Secure communications before computers
+## Secure communications before computers
 
 From the early days until radio was invented, people had few options to send a message privately:
 - use postal service and hope for the best that your envelope won't be open 
 - send a person with your message and hope he won't be intercepted nor he will defect you
 - use dove post
 
-So if you send plain text, there are chances the contents of your private message will be known to an adversary.
+So if you sent plain text, there were chances the contents of your private message would be known to an adversary.
 As a result, alphabetical ciphers were invented, for example
 - Ceasar cipher of ROT13
 - Vigenere cipher
