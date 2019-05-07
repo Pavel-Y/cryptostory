@@ -25,7 +25,7 @@ Later on, as radio was invented, another crypto marvel was designed:
 - the Enigma machine.
 
 Its versions were used by Germans in WWII. It is an electromechanical typewriter with a complex algo in it and a key schedule
-(list of keys).
+(the list of keys for given calendar dates).
 The ciphertext was transmitted via radio as Morse code.
 The allies failed to break it until they captured the machine itself. 
 Around that time the first prototype of a computer was built for this very purpose. Adam Turing took part in that project.
@@ -33,12 +33,11 @@ Around that time the first prototype of a computer was built for this very purpo
 The latest version of Enigma and long key schedules were used on submarines as they operated in the sea for a long time. 
 If the Germans found out the machine was captured they changed the key schedule. 
 
-Enigma and the key schedule was so precious for the Allies that at least once an English warship defeated a German submarine, it surfaced, 
-officers covertly grabbed Enigma and the key schedule from it and subsequently the warship sank the submarine with all its crew taking no 
-prisoners of war. 
+Enigma and the key schedule were so precious for the allies that at least once an English warship defeated a German submarine, it surfaced, 
+English officers covertly grabbed Enigma and the key schedule from it and subsequently the warship sank the submarine with all its crew taking no prisoners of war. 
 Noboby had to know that Enigma and the key schedue were stolen. 
 As a resut this key schedule was in use for a while and the messages were succesfully decripted.
 
-Closer to the end of the WWII after significant efforts the Allies managed to break the cipher having obtained just the latest 
-version of Enigma.
+Closer to the end of the WWII after significant efforts the allies managed to break the Enigma cipher having obtained just the latest 
+version of the machine without the key schedule.
  
