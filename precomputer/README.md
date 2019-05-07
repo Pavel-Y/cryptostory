@@ -39,5 +39,5 @@ Noboby had to know that Enigma and the key schedue were stolen.
 As a resut this key schedule was in use for a while and the messages were succesfully decripted.
 
 Closer to the end of the WWII after significant efforts the allies managed to break the Enigma cipher having obtained just the latest 
-version of the machine without the key schedule.
+version of the machine without the key schedules.
  
