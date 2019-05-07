@@ -18,7 +18,8 @@ the sender and the receiver must be at least as long as the message itself. To s
 part of the key and never reuse it.
 
 So, if you calculate `cipher text = plain text ⊕ key`
-(addition modulo 2 for binary values) you cipher is perfectly secure. This is a One Time Pad or Vernam cipher.
+(addition modulo 2 for binary values) you cipher is perfectly secure. This is a One Time Pad or Vernam cipher. 
+Rather impractical, isn't it?
 
 Later on, as radio was invented, another crypto marvel was designed: 
 - the Enigma machine.
