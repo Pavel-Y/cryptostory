@@ -2,7 +2,7 @@
 
 This is not a comprehensive guide on cryptography. I intend it to be an overview for laymen.
 
-1. [Pre-computer era](https://github.com/Pavel-Y/cryptostory/precomputer/README.md)
+1. [Pre-computer era](https://github.com/Pavel-Y/cryptostory/blob/master/precomputer/README.md)
 2. Symmetric crypto primitives
 3. Asymmetric crypto primitives
 4. Modern protocols
