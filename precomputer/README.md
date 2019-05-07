@@ -17,7 +17,7 @@ In 1917 it was proven that to have perfect secrecy (adversary learns nothing fro
 the sender and the receiver must be at least as long as the message itself. To send the next message, you use the next 
 part of the key and never reuse it.
 
-So, if you calculate `cipher text = plain text *xor* key`
+So, if you calculate `cipher text = plain text _xor_ key`
 (addition modulo 2 for binary values) you cipher is perfectly secure. This is a One Time Pad or Vernam cipher.
 
 Later on, as radio was invented, another crypto marvel was designed: 
